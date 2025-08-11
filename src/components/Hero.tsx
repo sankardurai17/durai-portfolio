@@ -35,7 +35,7 @@ export default function Hero() {
       </motion.p>
 
       <motion.a
-        href={`${import.meta.env.BASE_URL}assets/Durai_Resume.pdf`}
+        href='https://drive.google.com/file/d/1IDoIoOY367pUUljFPhDijcXxyACTLRYg/view?usp=sharing'
         target="_blank"
         rel="noreferrer"
         initial={{ opacity: 0, y: 15 }}
